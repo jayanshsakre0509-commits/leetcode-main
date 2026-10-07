@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/jayanshsakre0509-commits/leetcode-main/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jayanshsakre0509-commits/leetcode-main/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/jayanshsakre0509-commits/leetcode-main/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/jayanshsakre0509-commits/leetcode-main/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jayanshsakre0509-commits/leetcode-main/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/jayanshsakre0509-commits/leetcode-main/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
