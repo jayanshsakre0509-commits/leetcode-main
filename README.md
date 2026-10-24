@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/jayanshsakre0509-commits/leetcode-main/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jayanshsakre0509-commits/leetcode-main/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/jayanshsakre0509-commits/leetcode-main/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/jayanshsakre0509-commits/leetcode-main/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/jayanshsakre0509-commits/leetcode-main/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jayanshsakre0509-commits/leetcode-main/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/jayanshsakre0509-commits/leetcode-main/tree/master/0053-maximum-subarray) |
 ## String
 |  |
 | ------- |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jayanshsakre0509-commits/leetcode-main/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jayanshsakre0509-commits/leetcode-main/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
